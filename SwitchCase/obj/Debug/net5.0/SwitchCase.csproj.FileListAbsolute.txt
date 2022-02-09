@@ -1,0 +1,15 @@
+C:\Users\HP\source\repos\Variables\SwitchCase\bin\Debug\net5.0\SwitchCase.exe
+C:\Users\HP\source\repos\Variables\SwitchCase\bin\Debug\net5.0\SwitchCase.deps.json
+C:\Users\HP\source\repos\Variables\SwitchCase\bin\Debug\net5.0\SwitchCase.runtimeconfig.json
+C:\Users\HP\source\repos\Variables\SwitchCase\bin\Debug\net5.0\SwitchCase.runtimeconfig.dev.json
+C:\Users\HP\source\repos\Variables\SwitchCase\bin\Debug\net5.0\SwitchCase.dll
+C:\Users\HP\source\repos\Variables\SwitchCase\bin\Debug\net5.0\ref\SwitchCase.dll
+C:\Users\HP\source\repos\Variables\SwitchCase\bin\Debug\net5.0\SwitchCase.pdb
+C:\Users\HP\source\repos\Variables\SwitchCase\obj\Debug\net5.0\SwitchCase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\Variables\SwitchCase\obj\Debug\net5.0\SwitchCase.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Variables\SwitchCase\obj\Debug\net5.0\SwitchCase.AssemblyInfo.cs
+C:\Users\HP\source\repos\Variables\SwitchCase\obj\Debug\net5.0\SwitchCase.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Variables\SwitchCase\obj\Debug\net5.0\SwitchCase.dll
+C:\Users\HP\source\repos\Variables\SwitchCase\obj\Debug\net5.0\ref\SwitchCase.dll
+C:\Users\HP\source\repos\Variables\SwitchCase\obj\Debug\net5.0\SwitchCase.pdb
+C:\Users\HP\source\repos\Variables\SwitchCase\obj\Debug\net5.0\SwitchCase.genruntimeconfig.cache

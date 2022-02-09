@@ -1,0 +1,15 @@
+C:\Users\HP\source\repos\Variables\SentenciaFor\bin\Debug\net5.0\SentenciaFor.exe
+C:\Users\HP\source\repos\Variables\SentenciaFor\bin\Debug\net5.0\SentenciaFor.deps.json
+C:\Users\HP\source\repos\Variables\SentenciaFor\bin\Debug\net5.0\SentenciaFor.runtimeconfig.json
+C:\Users\HP\source\repos\Variables\SentenciaFor\bin\Debug\net5.0\SentenciaFor.runtimeconfig.dev.json
+C:\Users\HP\source\repos\Variables\SentenciaFor\bin\Debug\net5.0\SentenciaFor.dll
+C:\Users\HP\source\repos\Variables\SentenciaFor\bin\Debug\net5.0\ref\SentenciaFor.dll
+C:\Users\HP\source\repos\Variables\SentenciaFor\bin\Debug\net5.0\SentenciaFor.pdb
+C:\Users\HP\source\repos\Variables\SentenciaFor\obj\Debug\net5.0\SentenciaFor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\Variables\SentenciaFor\obj\Debug\net5.0\SentenciaFor.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Variables\SentenciaFor\obj\Debug\net5.0\SentenciaFor.AssemblyInfo.cs
+C:\Users\HP\source\repos\Variables\SentenciaFor\obj\Debug\net5.0\SentenciaFor.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Variables\SentenciaFor\obj\Debug\net5.0\SentenciaFor.dll
+C:\Users\HP\source\repos\Variables\SentenciaFor\obj\Debug\net5.0\ref\SentenciaFor.dll
+C:\Users\HP\source\repos\Variables\SentenciaFor\obj\Debug\net5.0\SentenciaFor.pdb
+C:\Users\HP\source\repos\Variables\SentenciaFor\obj\Debug\net5.0\SentenciaFor.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\HP\source\repos\Variables\SentenciaIfElseIf\bin\Debug\net5.0\SentenciaIfElseIf.exe
+C:\Users\HP\source\repos\Variables\SentenciaIfElseIf\bin\Debug\net5.0\SentenciaIfElseIf.deps.json
+C:\Users\HP\source\repos\Variables\SentenciaIfElseIf\bin\Debug\net5.0\SentenciaIfElseIf.runtimeconfig.json
+C:\Users\HP\source\repos\Variables\SentenciaIfElseIf\bin\Debug\net5.0\SentenciaIfElseIf.runtimeconfig.dev.json
+C:\Users\HP\source\repos\Variables\SentenciaIfElseIf\bin\Debug\net5.0\SentenciaIfElseIf.dll
+C:\Users\HP\source\repos\Variables\SentenciaIfElseIf\bin\Debug\net5.0\ref\SentenciaIfElseIf.dll
+C:\Users\HP\source\repos\Variables\SentenciaIfElseIf\bin\Debug\net5.0\SentenciaIfElseIf.pdb
+C:\Users\HP\source\repos\Variables\SentenciaIfElseIf\obj\Debug\net5.0\SentenciaIfElseIf.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Variables\SentenciaIfElseIf\obj\Debug\net5.0\SentenciaIfElseIf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\Variables\SentenciaIfElseIf\obj\Debug\net5.0\SentenciaIfElseIf.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Variables\SentenciaIfElseIf\obj\Debug\net5.0\SentenciaIfElseIf.AssemblyInfo.cs
+C:\Users\HP\source\repos\Variables\SentenciaIfElseIf\obj\Debug\net5.0\SentenciaIfElseIf.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Variables\SentenciaIfElseIf\obj\Debug\net5.0\SentenciaIfElseIf.dll
+C:\Users\HP\source\repos\Variables\SentenciaIfElseIf\obj\Debug\net5.0\ref\SentenciaIfElseIf.dll
+C:\Users\HP\source\repos\Variables\SentenciaIfElseIf\obj\Debug\net5.0\SentenciaIfElseIf.pdb
+C:\Users\HP\source\repos\Variables\SentenciaIfElseIf\obj\Debug\net5.0\SentenciaIfElseIf.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\HP\source\repos\Variables\SobrecargaDeMetodos\bin\Debug\net5.0\SobrecargaDeMetodos.exe
+C:\Users\HP\source\repos\Variables\SobrecargaDeMetodos\bin\Debug\net5.0\SobrecargaDeMetodos.deps.json
+C:\Users\HP\source\repos\Variables\SobrecargaDeMetodos\bin\Debug\net5.0\SobrecargaDeMetodos.runtimeconfig.json
+C:\Users\HP\source\repos\Variables\SobrecargaDeMetodos\bin\Debug\net5.0\SobrecargaDeMetodos.runtimeconfig.dev.json
+C:\Users\HP\source\repos\Variables\SobrecargaDeMetodos\bin\Debug\net5.0\SobrecargaDeMetodos.dll
+C:\Users\HP\source\repos\Variables\SobrecargaDeMetodos\bin\Debug\net5.0\ref\SobrecargaDeMetodos.dll
+C:\Users\HP\source\repos\Variables\SobrecargaDeMetodos\bin\Debug\net5.0\SobrecargaDeMetodos.pdb
+C:\Users\HP\source\repos\Variables\SobrecargaDeMetodos\obj\Debug\net5.0\SobrecargaDeMetodos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\Variables\SobrecargaDeMetodos\obj\Debug\net5.0\SobrecargaDeMetodos.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Variables\SobrecargaDeMetodos\obj\Debug\net5.0\SobrecargaDeMetodos.AssemblyInfo.cs
+C:\Users\HP\source\repos\Variables\SobrecargaDeMetodos\obj\Debug\net5.0\SobrecargaDeMetodos.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Variables\SobrecargaDeMetodos\obj\Debug\net5.0\SobrecargaDeMetodos.dll
+C:\Users\HP\source\repos\Variables\SobrecargaDeMetodos\obj\Debug\net5.0\ref\SobrecargaDeMetodos.dll
+C:\Users\HP\source\repos\Variables\SobrecargaDeMetodos\obj\Debug\net5.0\SobrecargaDeMetodos.pdb
+C:\Users\HP\source\repos\Variables\SobrecargaDeMetodos\obj\Debug\net5.0\SobrecargaDeMetodos.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\HP\source\repos\Variables\MetodosForEach\bin\Debug\net5.0\MetodosForEach.exe
+C:\Users\HP\source\repos\Variables\MetodosForEach\bin\Debug\net5.0\MetodosForEach.deps.json
+C:\Users\HP\source\repos\Variables\MetodosForEach\bin\Debug\net5.0\MetodosForEach.runtimeconfig.json
+C:\Users\HP\source\repos\Variables\MetodosForEach\bin\Debug\net5.0\MetodosForEach.runtimeconfig.dev.json
+C:\Users\HP\source\repos\Variables\MetodosForEach\bin\Debug\net5.0\MetodosForEach.dll
+C:\Users\HP\source\repos\Variables\MetodosForEach\bin\Debug\net5.0\ref\MetodosForEach.dll
+C:\Users\HP\source\repos\Variables\MetodosForEach\bin\Debug\net5.0\MetodosForEach.pdb
+C:\Users\HP\source\repos\Variables\MetodosForEach\obj\Debug\net5.0\MetodosForEach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\Variables\MetodosForEach\obj\Debug\net5.0\MetodosForEach.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Variables\MetodosForEach\obj\Debug\net5.0\MetodosForEach.AssemblyInfo.cs
+C:\Users\HP\source\repos\Variables\MetodosForEach\obj\Debug\net5.0\MetodosForEach.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Variables\MetodosForEach\obj\Debug\net5.0\MetodosForEach.dll
+C:\Users\HP\source\repos\Variables\MetodosForEach\obj\Debug\net5.0\ref\MetodosForEach.dll
+C:\Users\HP\source\repos\Variables\MetodosForEach\obj\Debug\net5.0\MetodosForEach.pdb
+C:\Users\HP\source\repos\Variables\MetodosForEach\obj\Debug\net5.0\MetodosForEach.genruntimeconfig.cache

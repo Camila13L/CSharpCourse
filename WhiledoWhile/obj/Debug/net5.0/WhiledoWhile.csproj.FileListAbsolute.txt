@@ -1,0 +1,15 @@
+C:\Users\HP\source\repos\Variables\WhiledoWhile\bin\Debug\net5.0\WhiledoWhile.exe
+C:\Users\HP\source\repos\Variables\WhiledoWhile\bin\Debug\net5.0\WhiledoWhile.deps.json
+C:\Users\HP\source\repos\Variables\WhiledoWhile\bin\Debug\net5.0\WhiledoWhile.runtimeconfig.json
+C:\Users\HP\source\repos\Variables\WhiledoWhile\bin\Debug\net5.0\WhiledoWhile.runtimeconfig.dev.json
+C:\Users\HP\source\repos\Variables\WhiledoWhile\bin\Debug\net5.0\WhiledoWhile.dll
+C:\Users\HP\source\repos\Variables\WhiledoWhile\bin\Debug\net5.0\ref\WhiledoWhile.dll
+C:\Users\HP\source\repos\Variables\WhiledoWhile\bin\Debug\net5.0\WhiledoWhile.pdb
+C:\Users\HP\source\repos\Variables\WhiledoWhile\obj\Debug\net5.0\WhiledoWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\Variables\WhiledoWhile\obj\Debug\net5.0\WhiledoWhile.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Variables\WhiledoWhile\obj\Debug\net5.0\WhiledoWhile.AssemblyInfo.cs
+C:\Users\HP\source\repos\Variables\WhiledoWhile\obj\Debug\net5.0\WhiledoWhile.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Variables\WhiledoWhile\obj\Debug\net5.0\WhiledoWhile.dll
+C:\Users\HP\source\repos\Variables\WhiledoWhile\obj\Debug\net5.0\ref\WhiledoWhile.dll
+C:\Users\HP\source\repos\Variables\WhiledoWhile\obj\Debug\net5.0\WhiledoWhile.pdb
+C:\Users\HP\source\repos\Variables\WhiledoWhile\obj\Debug\net5.0\WhiledoWhile.genruntimeconfig.cache

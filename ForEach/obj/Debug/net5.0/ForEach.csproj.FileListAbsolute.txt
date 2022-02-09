@@ -1,0 +1,15 @@
+C:\Users\HP\source\repos\Variables\ForEach\bin\Debug\net5.0\ForEach.exe
+C:\Users\HP\source\repos\Variables\ForEach\bin\Debug\net5.0\ForEach.deps.json
+C:\Users\HP\source\repos\Variables\ForEach\bin\Debug\net5.0\ForEach.runtimeconfig.json
+C:\Users\HP\source\repos\Variables\ForEach\bin\Debug\net5.0\ForEach.runtimeconfig.dev.json
+C:\Users\HP\source\repos\Variables\ForEach\bin\Debug\net5.0\ForEach.dll
+C:\Users\HP\source\repos\Variables\ForEach\bin\Debug\net5.0\ref\ForEach.dll
+C:\Users\HP\source\repos\Variables\ForEach\bin\Debug\net5.0\ForEach.pdb
+C:\Users\HP\source\repos\Variables\ForEach\obj\Debug\net5.0\ForEach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\Variables\ForEach\obj\Debug\net5.0\ForEach.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Variables\ForEach\obj\Debug\net5.0\ForEach.AssemblyInfo.cs
+C:\Users\HP\source\repos\Variables\ForEach\obj\Debug\net5.0\ForEach.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Variables\ForEach\obj\Debug\net5.0\ForEach.dll
+C:\Users\HP\source\repos\Variables\ForEach\obj\Debug\net5.0\ref\ForEach.dll
+C:\Users\HP\source\repos\Variables\ForEach\obj\Debug\net5.0\ForEach.pdb
+C:\Users\HP\source\repos\Variables\ForEach\obj\Debug\net5.0\ForEach.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\HP\source\repos\Variables\SerizalizacionJson\bin\Debug\net5.0\SerizalizacionJson.exe
+C:\Users\HP\source\repos\Variables\SerizalizacionJson\bin\Debug\net5.0\SerizalizacionJson.deps.json
+C:\Users\HP\source\repos\Variables\SerizalizacionJson\bin\Debug\net5.0\SerizalizacionJson.runtimeconfig.json
+C:\Users\HP\source\repos\Variables\SerizalizacionJson\bin\Debug\net5.0\SerizalizacionJson.runtimeconfig.dev.json
+C:\Users\HP\source\repos\Variables\SerizalizacionJson\bin\Debug\net5.0\SerizalizacionJson.dll
+C:\Users\HP\source\repos\Variables\SerizalizacionJson\bin\Debug\net5.0\ref\SerizalizacionJson.dll
+C:\Users\HP\source\repos\Variables\SerizalizacionJson\bin\Debug\net5.0\SerizalizacionJson.pdb
+C:\Users\HP\source\repos\Variables\SerizalizacionJson\obj\Debug\net5.0\SerizalizacionJson.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Variables\SerizalizacionJson\obj\Debug\net5.0\SerizalizacionJson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\Variables\SerizalizacionJson\obj\Debug\net5.0\SerizalizacionJson.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Variables\SerizalizacionJson\obj\Debug\net5.0\SerizalizacionJson.AssemblyInfo.cs
+C:\Users\HP\source\repos\Variables\SerizalizacionJson\obj\Debug\net5.0\SerizalizacionJson.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Variables\SerizalizacionJson\obj\Debug\net5.0\SerizalizacionJson.dll
+C:\Users\HP\source\repos\Variables\SerizalizacionJson\obj\Debug\net5.0\ref\SerizalizacionJson.dll
+C:\Users\HP\source\repos\Variables\SerizalizacionJson\obj\Debug\net5.0\SerizalizacionJson.pdb
+C:\Users\HP\source\repos\Variables\SerizalizacionJson\obj\Debug\net5.0\SerizalizacionJson.genruntimeconfig.cache

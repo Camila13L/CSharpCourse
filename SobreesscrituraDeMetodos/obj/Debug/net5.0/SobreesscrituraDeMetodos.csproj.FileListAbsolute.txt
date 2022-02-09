@@ -1,0 +1,16 @@
+C:\Users\HP\source\repos\Variables\SobreesscrituraDeMetodos\bin\Debug\net5.0\SobreesscrituraDeMetodos.exe
+C:\Users\HP\source\repos\Variables\SobreesscrituraDeMetodos\bin\Debug\net5.0\SobreesscrituraDeMetodos.deps.json
+C:\Users\HP\source\repos\Variables\SobreesscrituraDeMetodos\bin\Debug\net5.0\SobreesscrituraDeMetodos.runtimeconfig.json
+C:\Users\HP\source\repos\Variables\SobreesscrituraDeMetodos\bin\Debug\net5.0\SobreesscrituraDeMetodos.runtimeconfig.dev.json
+C:\Users\HP\source\repos\Variables\SobreesscrituraDeMetodos\bin\Debug\net5.0\SobreesscrituraDeMetodos.dll
+C:\Users\HP\source\repos\Variables\SobreesscrituraDeMetodos\bin\Debug\net5.0\ref\SobreesscrituraDeMetodos.dll
+C:\Users\HP\source\repos\Variables\SobreesscrituraDeMetodos\bin\Debug\net5.0\SobreesscrituraDeMetodos.pdb
+C:\Users\HP\source\repos\Variables\SobreesscrituraDeMetodos\obj\Debug\net5.0\SobreesscrituraDeMetodos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\Variables\SobreesscrituraDeMetodos\obj\Debug\net5.0\SobreesscrituraDeMetodos.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Variables\SobreesscrituraDeMetodos\obj\Debug\net5.0\SobreesscrituraDeMetodos.AssemblyInfo.cs
+C:\Users\HP\source\repos\Variables\SobreesscrituraDeMetodos\obj\Debug\net5.0\SobreesscrituraDeMetodos.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Variables\SobreesscrituraDeMetodos\obj\Debug\net5.0\SobreesscrituraDeMetodos.dll
+C:\Users\HP\source\repos\Variables\SobreesscrituraDeMetodos\obj\Debug\net5.0\ref\SobreesscrituraDeMetodos.dll
+C:\Users\HP\source\repos\Variables\SobreesscrituraDeMetodos\obj\Debug\net5.0\SobreesscrituraDeMetodos.pdb
+C:\Users\HP\source\repos\Variables\SobreesscrituraDeMetodos\obj\Debug\net5.0\SobreesscrituraDeMetodos.genruntimeconfig.cache
+C:\Users\HP\source\repos\Variables\SobreesscrituraDeMetodos\obj\Debug\net5.0\SobreesscrituraDeMetodos.csproj.AssemblyReference.cache

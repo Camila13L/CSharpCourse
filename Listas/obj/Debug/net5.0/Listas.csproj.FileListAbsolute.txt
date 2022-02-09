@@ -1,0 +1,15 @@
+C:\Users\HP\source\repos\Variables\Listas\bin\Debug\net5.0\Listas.exe
+C:\Users\HP\source\repos\Variables\Listas\bin\Debug\net5.0\Listas.deps.json
+C:\Users\HP\source\repos\Variables\Listas\bin\Debug\net5.0\Listas.runtimeconfig.json
+C:\Users\HP\source\repos\Variables\Listas\bin\Debug\net5.0\Listas.runtimeconfig.dev.json
+C:\Users\HP\source\repos\Variables\Listas\bin\Debug\net5.0\Listas.dll
+C:\Users\HP\source\repos\Variables\Listas\bin\Debug\net5.0\ref\Listas.dll
+C:\Users\HP\source\repos\Variables\Listas\bin\Debug\net5.0\Listas.pdb
+C:\Users\HP\source\repos\Variables\Listas\obj\Debug\net5.0\Listas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\Variables\Listas\obj\Debug\net5.0\Listas.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Variables\Listas\obj\Debug\net5.0\Listas.AssemblyInfo.cs
+C:\Users\HP\source\repos\Variables\Listas\obj\Debug\net5.0\Listas.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Variables\Listas\obj\Debug\net5.0\Listas.dll
+C:\Users\HP\source\repos\Variables\Listas\obj\Debug\net5.0\ref\Listas.dll
+C:\Users\HP\source\repos\Variables\Listas\obj\Debug\net5.0\Listas.pdb
+C:\Users\HP\source\repos\Variables\Listas\obj\Debug\net5.0\Listas.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\HP\source\repos\Variables\Arreglos\bin\Debug\net5.0\Arreglos.exe
+C:\Users\HP\source\repos\Variables\Arreglos\bin\Debug\net5.0\Arreglos.deps.json
+C:\Users\HP\source\repos\Variables\Arreglos\bin\Debug\net5.0\Arreglos.runtimeconfig.json
+C:\Users\HP\source\repos\Variables\Arreglos\bin\Debug\net5.0\Arreglos.runtimeconfig.dev.json
+C:\Users\HP\source\repos\Variables\Arreglos\bin\Debug\net5.0\Arreglos.dll
+C:\Users\HP\source\repos\Variables\Arreglos\bin\Debug\net5.0\ref\Arreglos.dll
+C:\Users\HP\source\repos\Variables\Arreglos\bin\Debug\net5.0\Arreglos.pdb
+C:\Users\HP\source\repos\Variables\Arreglos\obj\Debug\net5.0\Arreglos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\Variables\Arreglos\obj\Debug\net5.0\Arreglos.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Variables\Arreglos\obj\Debug\net5.0\Arreglos.AssemblyInfo.cs
+C:\Users\HP\source\repos\Variables\Arreglos\obj\Debug\net5.0\Arreglos.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Variables\Arreglos\obj\Debug\net5.0\Arreglos.dll
+C:\Users\HP\source\repos\Variables\Arreglos\obj\Debug\net5.0\ref\Arreglos.dll
+C:\Users\HP\source\repos\Variables\Arreglos\obj\Debug\net5.0\Arreglos.pdb
+C:\Users\HP\source\repos\Variables\Arreglos\obj\Debug\net5.0\Arreglos.genruntimeconfig.cache
