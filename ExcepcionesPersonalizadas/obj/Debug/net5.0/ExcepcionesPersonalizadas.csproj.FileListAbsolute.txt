@@ -1,0 +1,16 @@
+C:\Users\HP\source\repos\Variables\ExcepcionesPersonalizadas\bin\Debug\net5.0\ExcepcionesPersonalizadas.exe
+C:\Users\HP\source\repos\Variables\ExcepcionesPersonalizadas\bin\Debug\net5.0\ExcepcionesPersonalizadas.deps.json
+C:\Users\HP\source\repos\Variables\ExcepcionesPersonalizadas\bin\Debug\net5.0\ExcepcionesPersonalizadas.runtimeconfig.json
+C:\Users\HP\source\repos\Variables\ExcepcionesPersonalizadas\bin\Debug\net5.0\ExcepcionesPersonalizadas.runtimeconfig.dev.json
+C:\Users\HP\source\repos\Variables\ExcepcionesPersonalizadas\bin\Debug\net5.0\ExcepcionesPersonalizadas.dll
+C:\Users\HP\source\repos\Variables\ExcepcionesPersonalizadas\bin\Debug\net5.0\ref\ExcepcionesPersonalizadas.dll
+C:\Users\HP\source\repos\Variables\ExcepcionesPersonalizadas\bin\Debug\net5.0\ExcepcionesPersonalizadas.pdb
+C:\Users\HP\source\repos\Variables\ExcepcionesPersonalizadas\obj\Debug\net5.0\ExcepcionesPersonalizadas.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Variables\ExcepcionesPersonalizadas\obj\Debug\net5.0\ExcepcionesPersonalizadas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\Variables\ExcepcionesPersonalizadas\obj\Debug\net5.0\ExcepcionesPersonalizadas.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Variables\ExcepcionesPersonalizadas\obj\Debug\net5.0\ExcepcionesPersonalizadas.AssemblyInfo.cs
+C:\Users\HP\source\repos\Variables\ExcepcionesPersonalizadas\obj\Debug\net5.0\ExcepcionesPersonalizadas.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Variables\ExcepcionesPersonalizadas\obj\Debug\net5.0\ExcepcionesPersonalizadas.dll
+C:\Users\HP\source\repos\Variables\ExcepcionesPersonalizadas\obj\Debug\net5.0\ref\ExcepcionesPersonalizadas.dll
+C:\Users\HP\source\repos\Variables\ExcepcionesPersonalizadas\obj\Debug\net5.0\ExcepcionesPersonalizadas.pdb
+C:\Users\HP\source\repos\Variables\ExcepcionesPersonalizadas\obj\Debug\net5.0\ExcepcionesPersonalizadas.genruntimeconfig.cache
