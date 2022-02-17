@@ -51,7 +51,24 @@ namespace Tuplas
                 Console.WriteLine($"{p2.name} {p2.id}");
             }
 
+            //Nos ayuda a regresar más de un valor en una función
+            var cityInfo = getLocationBO();
+            Console.WriteLine($"lat:{cityInfo.lat}, long: {cityInfo.lng}, nombre: {cityInfo.name}");
 
+            //para recuperar solamente un elemento. Ignorar con guiones
+            var (_, lng, _) = getLocationBO();
+            Console.WriteLine(lng);
+            
+        }
+
+        //Asi declaramos una funcion que nos devuelve una Tupla
+ 
+        public static (float lat, float lng, string name) getLocationBO()
+        {
+            float lat = 68.30f;
+            float lng = 86.08f;
+            string name = "Bolivia";
+            return (lat, lng, name );
         }
     }
 }
