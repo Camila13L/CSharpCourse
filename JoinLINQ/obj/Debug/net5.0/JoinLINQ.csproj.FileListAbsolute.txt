@@ -1,0 +1,16 @@
+C:\Users\HP\source\repos\Variables\JoinLINQ\obj\Debug\net5.0\JoinLINQ.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Variables\JoinLINQ\obj\Debug\net5.0\JoinLINQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\Variables\JoinLINQ\obj\Debug\net5.0\JoinLINQ.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Variables\JoinLINQ\obj\Debug\net5.0\JoinLINQ.AssemblyInfo.cs
+C:\Users\HP\source\repos\Variables\JoinLINQ\obj\Debug\net5.0\JoinLINQ.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Variables\JoinLINQ\bin\Debug\net5.0\JoinLINQ.exe
+C:\Users\HP\source\repos\Variables\JoinLINQ\bin\Debug\net5.0\JoinLINQ.deps.json
+C:\Users\HP\source\repos\Variables\JoinLINQ\bin\Debug\net5.0\JoinLINQ.runtimeconfig.json
+C:\Users\HP\source\repos\Variables\JoinLINQ\bin\Debug\net5.0\JoinLINQ.runtimeconfig.dev.json
+C:\Users\HP\source\repos\Variables\JoinLINQ\bin\Debug\net5.0\JoinLINQ.dll
+C:\Users\HP\source\repos\Variables\JoinLINQ\bin\Debug\net5.0\ref\JoinLINQ.dll
+C:\Users\HP\source\repos\Variables\JoinLINQ\bin\Debug\net5.0\JoinLINQ.pdb
+C:\Users\HP\source\repos\Variables\JoinLINQ\obj\Debug\net5.0\JoinLINQ.dll
+C:\Users\HP\source\repos\Variables\JoinLINQ\obj\Debug\net5.0\ref\JoinLINQ.dll
+C:\Users\HP\source\repos\Variables\JoinLINQ\obj\Debug\net5.0\JoinLINQ.pdb
+C:\Users\HP\source\repos\Variables\JoinLINQ\obj\Debug\net5.0\JoinLINQ.genruntimeconfig.cache
