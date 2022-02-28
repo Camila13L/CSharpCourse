@@ -1,15 +1,18 @@
-﻿<Properties StartupConfiguration="{33C1C957-B4B8-4B14-8852-DC48E02EFA51}|Default">
-  <MonoDevelop.Ide.ItemProperties.ConexionDB FirstBuild="True" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="ConexionDB/Program.cs">
+﻿<Properties StartupConfiguration="{C56C14F2-B3DD-489D-8D44-C37DB4D72B6A}|Default">
+  <MonoDevelop.Ide.ItemProperties.ConexionDB PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ConexionDB/BeerDB.cs">
     <Files>
-      <File FileName="ConexionDB/Program.cs" Line="13" Column="1" />
+      <File FileName="ConexionDB/Program.cs" Line="8" Column="10" />
+      <File FileName="ConexionDB/DB.cs" Line="32" Column="6" />
+      <File FileName="ConexionDB/Beer.cs" Line="18" Column="1" />
+      <File FileName="ConexionDB/BeerDB.cs" Line="6" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="CsharpCourse" expanded="True">
             <Node name="ConexionDB" expanded="True">
-              <Node name="Program.cs" selected="True" />
+              <Node name="BeerDB.cs" selected="True" />
             </Node>
           </Node>
         </State>

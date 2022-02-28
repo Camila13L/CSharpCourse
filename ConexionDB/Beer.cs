@@ -1,0 +1,17 @@
+﻿using System;
+namespace ConexionDB
+{
+    public class Beer
+    {
+        public int Id { get; set; }
+        public string Name { get; set; }
+        public int BrandId { get; set; }
+
+        public Beer(int id, string name, int brandId)
+        {
+            this.Id = id;
+            this.Name = name;
+            this.BrandId = brandId;
+        }
+    }
+}
