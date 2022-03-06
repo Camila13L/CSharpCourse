@@ -13,5 +13,10 @@ namespace ConexionDB
             this.Name = name;
             this.BrandId = brandId;
         }
+        public Beer( string name, int brandId)
+        {
+            this.Name = name;
+            this.BrandId = brandId;
+        }
     }
 }
