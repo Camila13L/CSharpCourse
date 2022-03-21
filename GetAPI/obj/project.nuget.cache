@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "D60f5t7Mcj2SHakeAearYda+t1Fk7634oSsERHWEaNcWYbnJ86kfG4ZKOi8wGQHzmz3QagVIyANOFI1TlNxabw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\source\\repos\\Variables\\GetAPI\\GetAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
